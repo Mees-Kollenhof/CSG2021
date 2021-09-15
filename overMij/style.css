@@ -1,0 +1,35 @@
+p {
+    font-size:x-large;
+    color: black
+    margin: 5;
+}
+
+h2 {
+    font-size:xx-large
+    color:teal
+    margin: 6;
+}
+
+h3 {
+    color:royalblue;
+    font-size:medium
+    margin: 0;
+}
+
+h1 {
+    font-size: x-large;
+    color:slategrey
+    margin: 3;
+}
+
+img {
+    height: 25%;
+    width: 25%;
+}
+
+a {
+    font-size:medium;
+    color:royalblue;
+    margin: 12;
+}
+
