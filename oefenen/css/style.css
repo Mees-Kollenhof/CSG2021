@@ -1,6 +1,18 @@
-body {
-    background-image: url(../images/boom.jpg);
-    background-repeat: no-repeat;
-    color: rgb(230, 230, 230);
-    font-family: monospace;
+#container {
+    width: 45%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 0;
+    padding: 5%;
+    text-align: center;
+    border-left: 4px solid grey;
+    border-right: 4px solid grey;
 }
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: whitesmoke;
+    background-size: cover;
+    color: #333;
